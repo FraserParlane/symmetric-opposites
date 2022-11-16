@@ -4,3 +4,6 @@ A list of pairs of words that have the same number of characters and have opposi
  * `row` / `col`
  * `pos` / `neg`
  * `min` / `max`
+ * `north` / `south`
+ * `east` / `west`
+ 
