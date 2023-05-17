@@ -26,3 +26,17 @@ A list of pairs of words that have the same number of characters and have opposi
  * `inner` / `outer`
  * `right` / `wrong`
  * `internal` / `external`
+ * `ascend` / `descend`
+ * `chaos` / `order`
+ * `rural` / `urban`
+ * `abstract` / `concrete`
+ * `offensive` / `defensive`
+ *  * `give` / `take`
+ * `rise` / `fall`
+ * `above` / `below`
+ * `increase` / `decrease`
+ * `before` / `after`
+ * `rich` / `poor`
+ * `fast` / `slow`
+ * `heavy` / `light`
+ * `old` / `new`
