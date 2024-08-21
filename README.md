@@ -13,7 +13,8 @@ A list of pairs of words that have the same number of characters and have opposi
  * `open` / `shut`
  * `major` / `minor`
  * `hard` / `soft`
- * `upper` / `inner` / `lower`
+ * `upper` / `lower`
+ * `inner` / `outer`
  * `small` / `large`
  * `accept` / `reject`
  * `source` / `target`
